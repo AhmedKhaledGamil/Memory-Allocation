@@ -13,7 +13,7 @@
 - User inputs the method of allocation (first fit or best fit or worst fit).
 
 ## Outputs   
-output is the list of holes and allocated memory blocks (starting addresses and sizes) at
+Output is the list of holes and allocated memory blocks (starting addresses and sizes) at
 each allocation step.  
 
 ## Description  

@@ -1,0 +1,9 @@
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\bin\Debug\OS_MemoryAllocationProject.exe.config
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\bin\Debug\OS_MemoryAllocationProject.exe
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\bin\Debug\OS_MemoryAllocationProject.pdb
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\obj\Debug\OS_MemoryAllocationProject.csprojResolveAssemblyReference.cache
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\obj\Debug\OS_MemoryAllocationProject.Form1.resources
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\obj\Debug\OS_MemoryAllocationProject.Properties.Resources.resources
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\obj\Debug\OS_MemoryAllocationProject.csproj.GenerateResource.Cache
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\obj\Debug\OS_MemoryAllocationProject.exe
+c:\users\ahmed_nqedrw9\documents\visual studio 2015\Projects\OS_MemoryAllocationProject\OS_MemoryAllocationProject\obj\Debug\OS_MemoryAllocationProject.pdb
